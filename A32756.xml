@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for printing a book entituled, The history and antiquities of Hertfordshire. Written by Sir Henry Chauncy, Kt, Serjeant at law. Containing, ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32756</idno>
+            <idno type="STC">Wing C3742</idno>
+            <idno type="STC">ESTC R213936</idno>
+            <idno type="EEBO-CITATION">99826184</idno>
+            <idno type="PROQUEST">99826184</idno>
+            <idno type="VID">30577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30577)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1774:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for printing a book entituled, The history and antiquities of Hertfordshire. Written by Sir Henry Chauncy, Kt, Serjeant at law. Containing, ...</title>
+                  <author>Chauncy, Henry, Sir, 1632-1719.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Printing --  England --  Early works to 1800.</term>
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30577:1" rendition="simple:additions"/>
+            <head>PROPOSALS for Printing a Book entituled, <hi>The Hiſtory and Antiquities of</hi> Hertfordſhire.</head>
+            <byline>Written by Sir HENRY CHAUNCY, K<hi rend="sup">t</hi>, Serjeant at Law. Containing,</byline>
+            <list>
+               <item>I. THE Original of the ſeveral Diviſions in the Counties of <hi>England,</hi> into Corporations, Bur<g ref="char:EOLhyphen"/>roughs, Pariſhes, Hundreds, Wapentakes, Manorvils and Hamlets; alſo the Juriſdiction of all manner of Courts, heretofore held in the County of <hi>Hertford,</hi> the Quality of the Judges, and the Laws and Cuſtoms uſed there. The Royalties and Privileges granted to Burroughs, Hundreds, Liberties and Manors, of great uſe to the Lords thereof. The Original of Fairs, Markets, Tolls, and ſuch Royalties. The Succeſſion of the Lords of Hundreds and Manors; and Remarks on thoſe whoſe Courage, Valour and Vertues have been a Glory to their Name and Poſterity. To which is added the Pedigree and Deſcent of the Families of that County, which may enable Heirs to prove their Titles to Eſtates of their Anceſtors, upon the Expiration of any long Terms.</item>
+               <item>II. The Original of Abbeys, Pri<g ref="char:EOLhyphen"/>ories, Monaſteries, Pariſh-Churches, Advowſons, Tythes, Rectories, Impropriations, Vicaraes, <hi>&amp;c.</hi> To which is added the Lives of the Abbots of St. <hi>Albans.</hi>
+               </item>
+               <item>III. An account of the Rivers, Navigations, Medicinal Waters. Alſo the Antient Seats of Kings, Parliamentary Councils, or Terms held in that County. The antient Caſtles, Seats and Parks of the Nobility and Gentry, and the Quality of thoſe that reſided there in the time of the Conqueſt, and to what Perſons the Conqueror diſpoſed of all the Manors in that County.</item>
+               <item>IV. Catalogues of all the Earls, Sheriffs, Knights of the Shire, Burgeſſes of the Burroughs, and other Officers there, that have been to this time: with the antient Methods of their Elections and Form of their Government.</item>
+               <item>V. An exact Deſcription of every Pariſh, <hi>&amp;c.</hi> by it ſelf, and the Antiquities thereof; with whatever elſe is remarkable, and worth tranſmitting to Poſterity.</item>
+            </list>
+            <p>Collected from Doomſday Book, the Rolls, and Records in Chancery, in the Exchequer, in the Dutchy and Augmentation Office; as alſo from antient Hiſtory, uſeful not only for the Gentlemen of this County but others, to diſcover the Original and Grants of their own Royalties, Liberties and Privileges.</p>
+            <p>Propoſals and Specimens are delivered, and Subſcriptions taken by the Undertakers <hi>Tho. Bennet,</hi> at the <hi>Half-Moon</hi> in St. <hi>Paul</hi>'s Church-yard, <hi>London,</hi> and <hi>John Bu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rd;</hi> as alſo by the Bookſellers in <hi>London, Oxford, Cambridge, Hertford,</hi> St. <hi>Albans,</hi> and all the other Towns in <hi>England.</hi>
+            </p>
+            <list>
+               <head>PROPOSALS.</head>
+               <item>I. That the Book ſhall be printed on the ſame Letter and Paper with the Specimen of the County-Town annexed, only ſome few on a much larger Paper, for Gentlemen that are Curious.</item>
+               <item>II. That the Book will contain above 120 Sheets in <hi>Folio,</hi> beſides about forty large Copper Plates of the Breadth of a Sheet; which is propoſed at 16 <abbr>
+                     <hi>s</hi>
+                  </abbr> in Sheets, <hi>viz.</hi> Eight Shillings in hand, and eight Shil<g ref="char:EOLhyphen"/>lings at the delivery of the Book. The large Paper at 24 <abbr>
+                     <hi>s</hi>
+                  </abbr> in Sheets, <hi>viz.</hi> Twelve Shillings in hand, and Twelve Shillings at the delivery of the Book.</item>
+               <item>III. That thoſe Gentlemen who ſubſcribe for ſix Books ſhall have a ſeventh <hi>gratis,</hi> which brings the Price of each Book to about 13 <abbr>
+                     <hi>s</hi>
+                  </abbr> 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </item>
+               <item>IV. That if Encouragement is given by 300 Subſcriptions, being paid in by the firſt day of <hi>Michael<g ref="char:EOLhyphen"/>mas</hi> Term, the Book ſhall be delivered about <hi>Eaſter</hi> next; about Thirty of the Plates being already engraved.</item>
+               <item>V. That the Price of each Book ſhall be 28 <abbr>
+                     <hi>s</hi>
+                  </abbr> in Sheets to thoſe who ſhall not take the Benefit of Sub<g ref="char:EOLhyphen"/>ſcribing; of which they may be the better aſſured, by reaſon there will be but 500 ſmall, and 50 large Paper Printed.</item>
+            </list>
+            <div type="list">
+               <head>The Names of thoſe Gentlemen, <hi>&amp;c.</hi> who have already thought fit to have ſome Towns and their Seats Engraved.</head>
+               <list>
+                  <head>The Seats of</head>
+                  <item>Sir <hi>Nicolas Miller,</hi> Kt. at <hi>Sandon,</hi> called <hi>Hide-Hall.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Cheſter,</hi> 
+                     <abbr>Eſq</abbr> called <hi>Cockenhatch</hi> in <hi>Barkway.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Newland,</hi> 
+                     <abbr>Eſq</abbr> called <hi>Newſels</hi> in <hi>Barkway.</hi>
+                  </item>
+                  <item>
+                     <hi>James Goulſton,</hi> 
+                     <abbr>Eſq</abbr> called <hi>Witial.</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Freeman,</hi> 
+                     <abbr>Eſq</abbr> called <hi>Aſpeden-Hall.</hi>
+                  </item>
+                  <item>
+                     <hi>Bernard Turner,</hi> 
+                     <abbr>Eſq</abbr> called <hi>Littlecourt.</hi>
+                  </item>
+                  <item>M<hi rend="sup">dm</hi> 
+                     <hi>Barnes,</hi> called <hi>Moorhouſe</hi> in <hi>Great Hadham.</hi>
+                  </item>
+                  <item>The Hon. Sir <hi>Rob. Joſſelyn,</hi> Bar. called <hi>Hide-Hall</hi> in <hi>Sabridgworth.</hi>
+                     <p>With two Monuments in two diſtinct Plates.</p>
+                  </item>
+                  <item>The Hon. the Lady <hi>Wiſeman</hi> Baronetteſs, at <hi>Biſhop-Bury.</hi>
+                     <p>With three Monuments in three ſeveral Plates.</p>
+                  </item>
+                  <item>The Monument of Sir <hi>John Leventhorp,</hi> Kt.</item>
+                  <item>Sir <hi>Humphry Gore,</hi> Kt. called <hi>New-place.</hi>
+                     <p>With two Monuments in two Plates.</p>
+                  </item>
+                  <item>
+                     <hi>Edw. Sawyer,</hi> 
+                     <abbr>Eſq</abbr> called <hi>Berkhamſtead-place.</hi>
+                  </item>
+                  <item>The Lady <hi>Field,</hi> called <hi>Stanſted-bury.</hi>
+                  </item>
+                  <item>
+                     <hi>Matthew Bluck,</hi> 
+                     <abbr>Eſq</abbr> called <hi>Hunſdon-Houſe.</hi>
+                  </item>
+                  <item>Sir <hi>Tho. Brograve,</hi> Bar. called <hi>Hammels.</hi>
+                  </item>
+                  <item>Coll. <hi>Harriſon</hi> called <hi>Bawles.</hi>
+                  </item>
+                  <item>
+                     <abbr>Eſq</abbr> 
+                     <hi>Bacon,</hi> called <hi>Harlingford-bury.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Atkins,</hi> 
+                     <abbr>Eſq</abbr> called <hi>Bedwel-Park.</hi>
+                  </item>
+                  <item>
+                     <hi>Edm. Preſley,</hi> 
+                     <abbr>Eſq</abbr> called <hi>Wild-Hill.</hi>
+                  </item>
+                  <item>Sir <hi>William Lytton,</hi> Kt. called <hi>Knebworth-place.</hi>
+                  </item>
+                  <item>Sir <hi>John Spencer,</hi> Bar. called <hi>Ofley-place.</hi>
+                  </item>
+                  <item>
+                     <abbr>Eſq</abbr> 
+                     <hi>Helder</hi> called <hi>Little Ofley.</hi>
+                  </item>
+                  <item>Sir <hi>John Auſten,</hi> Bar. called <hi>Stagenhod.</hi>
+                  </item>
+                  <item>Sir <hi>Jonath. Keate,</hi> Bar. called the <hi>Hoo.</hi>
+                  </item>
+                  <item>The Hon. Sir <hi>Rich. Anderſon,</hi> Bar. at <hi>Ponley.</hi>
+                  </item>
+                  <item>The Hon. <hi>Hen. Guy,</hi> 
+                     <abbr>Eſq</abbr> at <hi>Tring.</hi>
+                  </item>
+                  <item>A New and Correct Map of the County.</item>
+                  <item>
+                     <hi>Hertford</hi> Town.</item>
+                  <item>The Town of St. <hi>Albans.</hi>
+                  </item>
+                  <item>
+                     <hi>Hitching</hi> Town.</item>
+                  <item>— Church.</item>
+               </list>
+            </div>
+            <pb n="2" facs="tcp:30577:2"/>
+            <div type="sample">
+               <head>Herudford, Heortford, <hi>now</hi> Hertford.</head>
+               <p>THIS was a Town of ſome remark in the time of the ancient <hi>Britains;</hi> who, in thoſe days,<note place="margin">Phil. Briet. Parall.</note> called it <hi>Durocobriva,</hi> which ſignifies, in their Language, <hi>Rubrum Vadum: Briva,</hi> which is an Adjection to many Names of Places, ſignified, among the old <hi>Britains</hi> and <hi>Gauls,</hi> a Bridge or a Paſſage, and <hi>Durocobriva</hi> a Water-paſſage: and if Mr. <hi>Cambden</hi>'s Rule hold true,<note place="margin">Cam. Brit. tit. <hi>Hertf.</hi> fol. 413, 414.</note> That the beſt Conjectures of antient Places may be made from the Analogy and Simili<g ref="char:EOLhyphen"/>tude of their Names, from their Situati<g ref="char:EOLunhyphen"/>on near Rivers and Lakes, and from their Diſtances of Places, tho they may not juſtly anſwer the exact account of Miles between Place and Place, for that the Numbers are often miſtaken by the Clerks, and the Ways may ſince be much altered: certainly this Town, not <hi>Redburne</hi> (as he ſuppoſes), was the Town that <hi>Antonine</hi> the Emperor calleth <hi>Durobriae;</hi> for <hi>Durobrivae</hi> or <hi>Durocobrivae</hi> was a Town of the <hi>Trinobantes,</hi> ſituated between <hi>Durolipontem</hi> (which is <hi>Huntingdon</hi>) thirty five Miles,<note place="margin">Du Freſne Gloſ. Med. &amp; Infim. Lat.</note> and <hi>Lindun</hi> (which is <hi>Lincoln</hi>) fifty ſix Miles, upon the River <hi>Lea</hi> in the County of <hi>Herudford,</hi> fifteen Miles North of <hi>London;</hi> and this Town of <hi>Hertford</hi> was ſituated on the River <hi>Lea,</hi> and the <hi>Trino<g ref="char:EOLhyphen"/>bantes</hi> did poſſeſs the ſame; whenas <hi>Redburne</hi> was ſituated upon the <hi>Verlume,</hi> in the Coun<g ref="char:EOLhyphen"/>try of the <hi>Cattieuchlani,</hi> and doth not ſo near anſwer the Diſtances from <hi>London, Huntingdon</hi> and <hi>Lincoln,</hi> as <hi>Hertford</hi> does. And the <hi>Britains</hi> might call this Town <hi>Duro<g ref="char:EOLhyphen"/>cobriva,</hi> from the Ford and the Red Gravel; and for the ſame reaſon the <hi>Saxons</hi> might afterwards call this Town <hi>Herudford</hi> from <hi>Durobriva,</hi>
+                  <note place="margin">Beda.</note> which, in their Language, ſig<g ref="char:EOLhyphen"/>nifies the ſame thing and anſwers the Co<g ref="char:EOLhyphen"/>lour of the Gravel at the Ford: and in continuance of time they called it <hi>Heortford,</hi>
+                  <note place="margin">Ibid.</note> and at length, by contraction of the Word, <hi>Hertford.</hi> All which ſeems more probable than the Conceit of Mr. <hi>Norden,</hi> who re<g ref="char:EOLhyphen"/>primands the learned <hi>Cambden</hi> for calling this Town <hi>Hertford,</hi>
+                  <note place="margin">Norden's Survey of <hi>Hertford<g ref="char:EOLhyphen"/>ſhire,</hi> p. 17.</note> when he had the venerable <hi>Bede</hi> for his Author, who lived about that Time; but would have every one believe that the <hi>Saxons</hi> denominated this Town <hi>Hartford,</hi> from a Ford of Harts, which he fancies was both conſonant to the Sound of the Name, and to the Nature and Situation of the Place, but cites not any Record, Hi<g ref="char:EOLhyphen"/>ſtory or Authority that proves his Opinion, or that there was any Foreſt or Chace in this County: but doubtleſs it is merely cal<g ref="char:EOLhyphen"/>led <hi>Hartford</hi> for <hi>Hertford,</hi> by reaſon of the broad Dialect and ill ſpeaking of the vulgar ſort of People, which oftentimes, through long uſage, changes the true Names of di<g ref="char:EOLhyphen"/>vers Places; and in alluſion to this new Name, ſome Herald hath lately given to this Corporation a Coat of Arms, wherein they bear a Hart Gules fording through a River.</p>
+               <p>In the beginning of the Heptarchy,<note place="margin">Heylin's Geograph. p 313. Pryns Col. of Parl. p. 6. Matth. Weſtm. Ann. 673. p. 236. e<g ref="char:EOLhyphen"/>dit. 1570. Flo. Wig. 673.</note> this Town was accounted one of the principal Cities in the Kingdom of the <hi>Eaſt Saxons,</hi> where the Kings of that Province often kept their Court: and in <hi>Anno Christi</hi> 673, a Parliamentary Council or National Synod was held on the 24th day of <hi>September;</hi> in which Aſſembly, <hi>Niſin</hi> and <hi>Kentin</hi> two Kings of the Heptarchy, <hi>Theodorus</hi> Archbi<g ref="char:EOLhyphen"/>ſhop of <hi>Canterbury, Putta</hi> Biſhop of <hi>Roche<g ref="char:EOLhyphen"/>ſter, Elutherius</hi> Biſhop of the <hi>Weſt Saxons, Winfrid</hi> Biſhop of the <hi>Mercians,</hi> and all the Nobles appeared in Perſon, but <hi>Biſi</hi> Biſhop of the <hi>Eaſt Angles</hi> and <hi>Wilfrid</hi> Biſhop of the <hi>Northumbers,</hi> appeared by their Deputies <hi>Aecci</hi> and <hi>Baldwin,</hi> they being ſick at that time; and the Archbiſhop, who preſided in this Council, produced a Book, wherein he had noted ten Articles taken out of the Book of Canons, requiring that the ſame might be received.</p>
+               <list>
+                  <item>1. <hi>That the Feaſt of</hi> Eaſter <hi>ſhould be kept on the Sunday following the fourteenth day of the firſt Month.</hi>
+                     <note place="margin">Spel. Con.</note>
+                  </item>
+                  <item>2. <hi>That no Biſhop ſhould intermeddle in ano<g ref="char:EOLhyphen"/>thers Dioceſe, but be content with the Care of his own Flock.</hi>
+                  </item>
+                  <item>3. <hi>That no Biſhop ſhould, in any thing, diſ<g ref="char:EOLhyphen"/>quiet any Monaſtery conſecrated to God, nor take by Violence, any Goods that be<g ref="char:EOLhyphen"/>longed to the ſame.</hi>
+                  </item>
+                  <item>4. <hi>That Biſhops, being Monks, ſhould not go from Monaſtery to Monaſtery, except by ſufferance or permiſſion of their Abbots, and ſhould continue in the ſame Obedience wherein they ſtood before.</hi>
+                  </item>
+                  <item>5. <hi>That none of the Clergy ſhould depart from his Biſhop to run into any other Dioceſe; nor coming from any other Place ſhould be admitted, unleſs he brought teſtimonial Letters with him; but if any ſuch Perſon ſhould be received, and ſhould be ſent for home, and refuſe to return; both he and his Receiver ſhould be excommunicated.</hi>
+                  </item>
+                  <item>6. <hi>That Biſhops, and others of the Clergy, be<g ref="char:EOLhyphen"/>ing Strangers, ſhould be content with the Benefit of Hoſpitality, and ſhould not take in hand any Prieſt's Office, without Li<g ref="char:EOLhyphen"/>cence of the Biſhop in whoſe Dioceſe he ſhould remain.</hi>
+                  </item>
+                  <item>7. <hi>That twice in the Year a Synod ſhould be kept; but becauſe of divers impediments herein they did think good, that in the Ca<g ref="char:EOLhyphen"/>lends of</hi> Auguſt <hi>a Synod ſhould be kept once in the Year at a certain place called</hi> Clove<g ref="char:EOLhyphen"/>ſhook.</item>
+                  <item>8. <hi>That no Biſhop ſhould, by his Ambition, ſeek to be preferred before another, but that every one ſhould know the time and order of his Conſecration.</hi>
+                  </item>
+                  <item>9. <hi>That as the Number of the Chriſtians in<g ref="char:EOLhyphen"/>creaſed, ſo there ſhould be more Biſhops or<g ref="char:EOLhyphen"/>dained.</hi>
+                  </item>
+                  <pb n="3" facs="tcp:30577:2"/>
+                  <item>10. <hi>That none ſhould contract Matrimony with any Perſon, but with ſuch as ſhould be lawful by the Orders of the Church. None ſhould make an inceſtuous Marriage. None ſhould forſake his Wife except for Fornication; but if any Man did put away his Wife which he had lawfully married, if he would be accounted a true Chriſtian, he may not be coupled with another, but ſo remain, or be reconciled to his own Wife.</hi>
+                  </item>
+               </list>
+               <p>Theſe Articles were confirmed with the Subſcription of all their Hands; ſo that all thoſe who ſhould go againſt the ſame ſhould be degraded from their Prieſthood, and ſe<g ref="char:EOLhyphen"/>parated from the Company of all of them.</p>
+               <p>But from the time of holding this Parli<g ref="char:EOLhyphen"/>amentary Synod, I cannot find any Record or Hiſtory, that gives any further account of this Town till the time of King <hi>Alfred;</hi> for in the time of the <hi>Saxon</hi> Heptarchy thoſe Petty Kings endeavour'd much to enlarge their Dominions, and did often invade each others Country, whereby great Waſte and Spoil was committed by reaſon of thoſe con<g ref="char:EOLhyphen"/>tinual Wars, ſo that no Memorials could be preſerved during thoſe troubleſome times.</p>
+               <p>When theſe Petty Kings had weakened themſelves, and wearied out the People with Sword and Rapine at home, King <hi>Egbert</hi> ſubdued his neighbouring Princes, and made himſelf the firſt <hi>Engliſh Monarch;</hi> and he divided this Land into Provinces, that he might, with the greater Eaſe, diſtri<g ref="char:EOLhyphen"/>bute Juſtice to his People, and keep his Sub<g ref="char:EOLhyphen"/>jects in Peace and Quiet; and he denomina<g ref="char:EOLhyphen"/>ted this Province from this Town, and made it the Shire or County-Town, for at that time this was the moſt remarkable Place and the greateſt Town in this Province, and the moſt convenient place for the Governour to manage the Affairs of the County: and when this King died, which was <hi>An. Chriſti</hi> 836, the Poſſeſſion of this Town came to his Son <hi>Ethelwolph.</hi>
+               </p>
+               <p>But the <hi>Danes</hi> and other barbarous People in thoſe Pagan Countries,<note place="margin">Chron. E<g ref="char:EOLhyphen"/>thel. 478. num. 40. W. Malmſ. 19. n. 40. Hov. 236. num. 70. Chro. Sax. 544, 545. Aſſer Min. H. Hunt. Hiſt. l. 5. p. 201. n. 10. Hol. Vol. 1. Hiſtor. <hi>Engl.</hi> 147. Hollingſh. Deſc. Brit. 51.</note> diſcovering the Poverty and miſerable Condition which the late Wars had brought upon the Inhabitants of this Iſland, took that opportunity to in<g ref="char:EOLhyphen"/>vade this Kingdom, and did deſtroy the Peo<g ref="char:EOLhyphen"/>ple, and waſted this Land many years toge<g ref="char:EOLhyphen"/>ther, ſparing neither Age nor Sex, and in <hi>An. Chriſti</hi> 894, and 23 of King <hi>Alfred,</hi> they, riding with their Navy in the River of <hi>Thames,</hi> ſailed up the River <hi>Lea</hi> with light Pinnaces and Ships, and built a Fort on the Bank of the River, about the place where the Town of <hi>Ware</hi> now ſtands, and fortifi'd it with a great Wear, which they raiſed about it by a great Bank or Damm which penn'd up the Water about the Fort, from whence the <hi>Danes</hi> made their Excurſions, and aſſailed this Town of <hi>Heorutford,</hi> ſpoil'd the Inha<g ref="char:EOLhyphen"/>bitants, and burn'd their Houſes to the ground; which cauſed King <hi>Alfred,</hi> the ſame Year, to levy an Army, who built a Caſtle at this Town, being about twenty Miles diſtant from <hi>London,</hi> whither a great part of the Citizens of <hi>London,</hi> and other People repaired, and modelling themſelves into an Army, did attempt to deſtroy the <hi>Daniſh</hi> Fort at <hi>Ware;</hi> but in that Action four of the King's Officers were ſlain, and his Army put to flight.</p>
+               <p>When the Summer approach'd, the King encamped with his Army on both ſides the River, and view'd the Fort which the <hi>Danes</hi> had fortified; and when he had diſcovered the Strength of their Walls, and the Order of their Ships fenced about with Stakes, and knew that they would command all the Corn in the Field for their Garriſon, which was near the City or within the compaſs of their Army, and what they ſhould not need they would burn or deſtroy, the King ob<g ref="char:EOLhyphen"/>ſerved the Courſe of the River <hi>Lea,</hi> as he was drawn with a Horſe upon the Banks, and diſcerning that in ſome places the Cha<g ref="char:EOLhyphen"/>nel of the River might be drawn ſo ſhallow, and the Stream ſtraitened with Stakes, that all the Skill of the <hi>Danes</hi> could not tow their Ships back again; he cauſed two Cur<g ref="char:EOLhyphen"/>rents to be made, one on either ſide the Ri<g ref="char:EOLhyphen"/>ver, and after the Work was begun, the Water ſunk at the <hi>Daniſh</hi> Fort, ſo that the Pagans could not tow back their Ships; then they immediately convey'd their Wives to the <hi>East-Angles,</hi> where they ſecured them, and made their Compoſition with the <hi>Engliſh,</hi> that they might march to <hi>Quat<g ref="char:EOLhyphen"/>bridge,</hi> near the <hi>Severne,</hi> where they built another Fort; but the Army haſtened and followed them to the Weſt, whilſt the Citizens of <hi>London</hi> did ſeize their Ships, and thoſe they could not bring up they broke in pieces; but thoſe which were worth the taking, they drew up to the City of <hi>London;</hi> and ſince that time the Tides have been kept back by a large Saſſe made at <hi>Blackwall,</hi> from whence that place was denominated; and by ſtraitning the Paſſage of the Tides in the ſeveral Channels with high Banks on either ſide thoſe Cuts, which keep back the Tides from drowning the Level ſo that they cannot now flow to this Town as they formerly did, when they brought up large Veſſels hither, from whence a Hill near <hi>Warepark</hi> is now called <hi>Shipman</hi>'s <hi>Hill,</hi> and another Hill near this Town is now called <hi>Porthill;</hi> and ſome An<g ref="char:EOLhyphen"/>chors have been found in this Vale: But where the paſſage of the <hi>Thames</hi> is open and wide, and no Mills to obſtruct the Current, the Tydes ſtill flow a great way, as to <hi>King<g ref="char:EOLhyphen"/>ſton.</hi> When King <hi>Alfred</hi> had in this man<g ref="char:EOLhyphen"/>ner dreined the whole level, and recovered it from the Sea, it became his Land, whence ſeveral of theſe Meads are now called <hi>King</hi>'s <hi>Meads,</hi> and become common to the adjacent Villages; and in <hi>Anno Chriſti</hi> 900 this King died, and this Town came to King <hi>Edward,</hi> who was his Son and Succeſſor.</p>
+               <pb n="4" facs="tcp:30577:3"/>
+               <p>Which King,<note place="margin">Chro. Sax. 549.</note> 
+                  <hi>Anno Chriſti</hi> 914, 14. <hi>Regni ſui,</hi> about the Feaſt of St. <hi>Martin,</hi> being the 12th of <hi>November,</hi> commanded a Burrough ſhould be built on the North ſide of <hi>Herot<g ref="char:EOLhyphen"/>ford,</hi> between the Rivers called the <hi>Mimeram,</hi> the <hi>Benefitian,</hi> and the <hi>Ligean,</hi> which are the Pariſhes of St. <hi>Andrew,</hi> St. <hi>Nicolas,</hi> and St. <hi>Mary the Great,</hi> for they are ſituated upon the North part of the <hi>Ligean,</hi> which is the <hi>Luy</hi> or the <hi>Lea,</hi> and the <hi>Mimeram</hi> or the <hi>Marran,</hi> and the South part of the <hi>Beane</hi> or the <hi>Benefitian;</hi>
+                  <note place="margin">Ib. p. 550. num. 913.</note> but in the Summer follow<g ref="char:EOLhyphen"/>ing, between the Ambarvals (which is Ro<g ref="char:EOLhyphen"/>gation Week) and the Solſtice, he cauſed a good part of his Army to build the other part of this Burrough on the South ſide of the <hi>Ligean</hi> or the <hi>Lea,</hi> which are the Pa<g ref="char:EOLhyphen"/>riſhes of <hi>All Saints</hi> and St. <hi>Mary the Leſs,</hi> ſince that time called St. <hi>Mary the Monk,</hi> and now St. <hi>Johns;</hi> and this Town was then made parcel of the King's Revenue, for that it was built at his proper Coſts and Charges, and it was called a Burrough for that it was a Fortification made to protect and defend the People from the Violence of the <hi>Daniſh Infidels,</hi>
+                  <note place="margin">Verſt. Ant. p. 212.</note> for the Name of Bur<g ref="char:EOLhyphen"/>rough did properly ſignifie a Place of De<g ref="char:EOLhyphen"/>fence, for theſe Places at firſt were fenced about with Walls of Turf, and Clods of Earth for Men to be ſhrouded in, as in Forts or Caſtles; and from this name of Burrough the Houſes in this Town were an<g ref="char:EOLhyphen"/>tiently called <hi>Burgages.</hi>
+               </p>
+               <p>And when theſe Houſes were firſt inha<g ref="char:EOLhyphen"/>bited, the Poſſeſſors of them were called <hi>Tenants in Burgage</hi> from their Houſes; for every Tenant paid to the King for his Bur<g ref="char:EOLhyphen"/>gage or Tenement a certain yearly Rent, in lieu of his Protection and Safety, which was then called <hi>Haganel,</hi>
+                  <note place="margin">Ing. 5. Ed. Ill. Spel. Gloſ. tit. verb. <hi>Haga.</hi>
+                  </note> from the word <hi>Haga,</hi> which ſignifies a Fence or a Ram<g ref="char:EOLhyphen"/>pire; and this King did conſtitute a Bay<g ref="char:EOLhyphen"/>liff to let his Houſes, and to receive his Rents; and did alſo incorporate this Bur<g ref="char:EOLhyphen"/>rough by the Name of Bayliff and Te<g ref="char:EOLhyphen"/>nants, which Bayliff was the King's Officer, which he impowered to hold Courts for the Government of the Tenants and People within the Burrough, where Laws were made, Offenders puniſht, and all Officers requiſite to ſupport the Peace and Govern<g ref="char:EOLhyphen"/>ment of a Corporation were choſen, and this Conſtitution perpetuated to Succeſſion, which made it a Corporation or Burrough Incorporate;<note place="margin">Skinner's Lexic. tit. verb. <hi>Cor<g ref="char:EOLhyphen"/>poration.</hi>
+                  </note> for a Corporation is a Com<g ref="char:EOLhyphen"/>pany of Tradeſmen, or a City, or Town, endowed with Privileges, Magiſtracy, and Power of making Laws within themſelves; and this was the Original of all Corpora<g ref="char:EOLhyphen"/>tions. But this Corporation was known by a particular Name of Bayliff and Tenants, and continued to Succeſſion; and when theſe Tenants gained the Name of Bur<g ref="char:EOLhyphen"/>geſſes, from the Contraction of the Word Burgages, the Name of this Corporation was changed, for then it ſeems this Bur<g ref="char:EOLhyphen"/>rough was incorporated by the Name of Bayliff and Burgeſſes, and that the Names of this Corporation have been ſuch, is ma<g ref="char:EOLhyphen"/>nifeſt by ſeveral Charters of this Burrough.</p>
+               <p>In the Survey taken in the time of <hi>William</hi> the Conqueror, it is there recorded, That,<note place="margin">Doomſd. 132.</note>
+               </p>
+               <p>
+                  <hi>Burgum de</hi> Hertford <hi>pro decem hidis ſe de<g ref="char:EOLhyphen"/>fendebat tempore Regis</hi> Edwardi <hi>&amp; modo non facit. Ibi erant</hi> 146 <hi>Burgenſes in ſoca Regis</hi> Ed<g ref="char:EOLhyphen"/>wardi.</p>
+               <p>
+                  <hi>De his habet modo Comes</hi> Alanus <hi>tres domos quae tunc &amp; modo reddat conſuetudinem.</hi>
+               </p>
+               <p>Eudo Dapifer <hi>habet duos domos, quae fuerunt</hi> Algari Cochenac; <hi>&amp; tunc &amp; modo reddentes conſuetudinem, &amp; tertiam Domum habet iſte</hi> Eudo, <hi>quae fuit</hi> Ulmari Eton, <hi>non reddat conſuetudinem.</hi>
+               </p>
+               <p>Goisfridus de Bech <hi>tres domos conſuetudi<g ref="char:EOLhyphen"/>nem reddent.</hi>
+               </p>
+               <p>Humfridus de Anſlevile <hi>tenet ſub</hi> Eudone <hi>duos domos cum uno horto, harum una accomo<g ref="char:EOLhyphen"/>data fuit cuidam prefecto Regis, &amp; altera cum horto fuit cuidam Burgenſis, &amp; modo reclamant ipſi Burgenſes ſibi injuſte ablatos.</hi>
+               </p>
+               <p>
+                  <hi>Alios</hi> 18. <hi>Burgenſes habet Rex</hi> Willielmus, <hi>qui fuerunt homines Comitis</hi> Heraldi <hi>&amp; Comitis</hi> Lenuini <hi>omnes conſuetudines reddent.</hi>
+               </p>
+               <p>Petrus de Valongies <hi>habet duas Eccleſias, cum una domo, quas emit de</hi> Ulwin de Hat<g ref="char:EOLhyphen"/>field, <hi>reddat omnes conſuetudines. Ipſe</hi> Ulwin <hi>&amp; dare eas &amp; vendere poterat.</hi>
+               </p>
+               <p>Goisfridus de Magnavile <hi>habet occupatum quoddam qui fuit</hi> Elgari Stalci, <hi>&amp; ſeptem do<g ref="char:EOLhyphen"/>mos, quae nullam conſuetudinem reddiderunt niſi geldum Regis quando colligebatur.</hi>
+               </p>
+               <p>Radolfus Baniard <hi>habet duos domos, &amp; tunc &amp; modo conſuetudinem reddat.</hi>
+               </p>
+               <p>Harduinus de Scalers <hi>habet</hi> 14 <hi>domos, quas habuit</hi> Acho <hi>tempore Regis</hi> Edwardi, <hi>nullam conſuetudinem dabant niſi geldum Regis, de qui<g ref="char:EOLhyphen"/>bus advocat</hi> Harduinus <hi>Regem ad protectorem. Adhuc unam domum habet</hi> Harduinus <hi>de dono Regis, quae fuit cuidam Burgenſis, reddebat om<g ref="char:EOLhyphen"/>nem conſuetudinem.</hi>
+               </p>
+               <p>
+                  <hi>Hoc ſuburbium reddit</hi> 20 <hi>lib. arſas &amp; penſa<g ref="char:EOLhyphen"/>tas &amp; tres molini reddebant</hi> 10 <hi>lib. ad nume<g ref="char:EOLhyphen"/>rum.</hi>
+               </p>
+               <p>
+                  <hi>Quando</hi> Petrus <hi>Vicecomes recepiſſet</hi> 15 <hi>lib. ad numerum reddebat tempore Regis</hi> Edwardi 7 <hi>lib. &amp;</hi> 10 <hi>ſol. ad numerum.</hi>
+               </p>
+               <p>The Burrough of <hi>Hertford</hi> was rated at ten Hides in the time of King <hi>Edward,</hi>
+                  <note place="margin">The <hi>Con<g ref="char:EOLhyphen"/>feſſor.</hi>
+                  </note> now (that is, in the time of K. <hi>William</hi>) it made not ſo much: there were one hundred forty ſix Burgeſſes in the Soke (or Juriſdiction) of King <hi>Edward,</hi> of theſe Earl <hi>Alan</hi> has now (that is, in the time of the Conque<g ref="char:EOLhyphen"/>ror) three Houſes; which then (that is, in the time of King <hi>Edward,</hi>) and now (that is, in the time of King <hi>William</hi>) paid Rent.</p>
+               <p>
+                  <hi>Eudo Dapifer</hi> had two Houſes, which were <hi>Algar Cochenac</hi>'s, and then (that is, in the time of King <hi>Edward</hi>) and now (that is, in the time of King <hi>William</hi>) paid Rent. And the ſame <hi>Eudo</hi> hath a third Houſe, which was <hi>Ulmar Eton</hi>'s paid no Rent.</p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
